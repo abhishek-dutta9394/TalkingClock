@@ -6,6 +6,9 @@ Talking Clock System
 - Global exception handler is present. 
 - Test cases are added as well.
 
+It is a maven project. 
+Build command - mvn clean install
+
 Swagger URL - http://localhost:6001/talkingclock/swagger-ui.html#
 
 To convert current time to word -
